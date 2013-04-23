@@ -13,7 +13,7 @@ Usage
 _____
 
 1. Run `shred.py` to shred photos from original folder. The outputs will be in shredded folder.
-2. Run `unshred.py` to restore photos from shredded folder.
+2. Run `unshred.py` to restore photos from shredded folder. Restored photos will be in unshredded folder.
 
 The script will also detect the width of shreds and number of shreds automatically.
 
